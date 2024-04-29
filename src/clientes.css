@@ -83,7 +83,7 @@ button[type="submit"], button[type="reset"]{
     transition: background-color 0.3 ease;
 }
 button[type="submit"]:hover, button[type="reset"]:hover{
-    background-color: #5f0000;
+    background-color: #4b0000;
 }
 hr {
     border: none;
