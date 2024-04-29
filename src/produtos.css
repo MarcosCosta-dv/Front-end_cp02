@@ -10,8 +10,9 @@
     padding: 20px;
     margin-bottom: 20px;
     border: 1px solid #ccc;
-    border-radius: 5px;
+    border-radius: 15px;
     transition: transform 0.3s ease;
+    background-image: linear-gradient(to bottom, #8b4444, white);
 }
 
 .card:hover {
@@ -45,5 +46,5 @@
 }
 
 .descricao button:hover {
-    background-color: #cd5c5c;
+    background-color: #e2b46a;
 }
